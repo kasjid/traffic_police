@@ -1,0 +1,2 @@
+[ Sun Aug  9 10:29:09 2026 ] Load weights from /2025212223/workspace/thesis-code/Hyper-GCN/results/ntu60/xsub/joint/runs-124-77624.pt.
+[ Sun Aug  9 10:29:10 2026 ] using warm up, epoch: 5
